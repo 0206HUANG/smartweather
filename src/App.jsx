@@ -43,7 +43,7 @@ function App() {
       <header className="app-header">
         <div className="logo">
           <span className="logo-icon">🌤️</span>
-          <h1>SmartWeather POC</h1>
+          <h1>SmartWeather</h1>
         </div>
         <p className="subtitle">AI-Powered Weather Risk Assessment System</p>
       </header>
@@ -68,7 +68,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>SmartWeather POC • University AI Course Assignment 2 • State Space Search Demo</p>
+        <p>SmartWeather • University AI Course Assignment 2 • State Space Search Demo</p>
       </footer>
     </div>
   );
