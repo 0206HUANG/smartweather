@@ -68,7 +68,7 @@ function App() {
       </main>
 
       <footer className="app-footer">
-        <p>SmartWeather • University AI Course Assignment 2 • State Space Search Demo</p>
+        <p>SmartWeather</p>
       </footer>
     </div>
   );
